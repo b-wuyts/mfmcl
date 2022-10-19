@@ -16,8 +16,10 @@ DEPENDENCIES
 
 INSTALLATION
 
-Run in Mathematica: PacletInstall[dir<>"mfmcl-1.0.paclet"]
-Here, 'dir' is the directory of the paclet.
+1) Download the paclet file from the release link.
+
+2) Run in Mathematica: PacletInstall[dir<>"mfmcl-1.0.paclet"]
+    (here, 'dir' is the directory of the paclet)
 
 Note that IGraph/M needs to be installed as well (see above).
 
