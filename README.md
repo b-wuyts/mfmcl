@@ -6,7 +6,7 @@ Bert Wuyts - b3rtwu@gmail.com
 ## DEPENDENCIES
 
 ### External
-- [IGraph/M](szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html)
+- [IGraph/M](https://wwww.szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html)
 
 To install, run in Mathematica: 
 ```Mathematica
