@@ -32,9 +32,9 @@ Note that IGraph/M needs to be installed as well (see above).
 
 ## DEMOS
 
-BasicFunctions.nb: explains basic low-level functions
-MomEqs_SIS3_unclosed.nb: general unclosed third order moment equations for SIS epidemic spreading 
-MomEqs_SIS3SqL_closed.nb: closed third order moment equations for SIS epidemic spreading on a square lattice 
+- BasicFunctions.nb: explains basic low-level functions
+- MomEqs_SIS3_unclosed.nb: general unclosed third order moment equations for SIS epidemic spreading 
+- MomEqs_SIS3SqL_closed.nb: closed third order moment equations for SIS epidemic spreading on a square lattice 
 
 
 ## UNINSTALL
