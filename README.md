@@ -10,7 +10,8 @@ Bert Wuyts - b3rtwu@gmail.com
 
 source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
 
-instal via command (in Mathematica): Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]
+instal via command (in Mathematica): 
+```Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]```
 
 ### Included in subdirectories
 - ToMatlab 
@@ -37,8 +38,9 @@ MomEqs_SIS3SqL_closed.nb: closed third order moment equations for SIS epidemic s
 
 
 ## UNINSTALL
+In Mathematica:
+```PacletUninstall["mfmcl"]```
 
-PacletUninstall["mfmcl"]
 
-
-## REFERENCE: arxiv.org/abs/2111.07643
+## REFERENCE 
+arxiv.org/abs/2111.07643
