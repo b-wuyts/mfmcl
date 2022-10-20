@@ -6,16 +6,16 @@ Bert Wuyts - b3rtwu@gmail.com
 ## DEPENDENCIES
 
 ### External
-#### IGraph/M
+- IGraph/M
 
 source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
 
 instal via command (in Mathematica): Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]
 
 ### Included in subdirectories
-#### ToMatlab 
+- ToMatlab 
 source: https://library.wolfram.com/infocenter/MathSource/577/
-#### Chordal Graph package 
+- Chordal Graph package 
 source: http://mathematica-bits.blogspot.com/2011/02/chordal-graph-usage.html
 
 
