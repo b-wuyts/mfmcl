@@ -7,8 +7,7 @@ Bert Wuyts - b3rtwu@gmail.com
 
 ### External
 - IGraph/M
-
-source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
+* source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
 
 To install, run in Mathematica: 
 ```Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]```
