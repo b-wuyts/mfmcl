@@ -10,7 +10,7 @@ Bert Wuyts - b3rtwu@gmail.com
 
 source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
 
-instal via command (in Mathematica): 
+To install, run in Mathematica: 
 ```Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]```
 
 ### Included in subdirectories
