@@ -11,7 +11,8 @@ source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
 
 To install, run in Mathematica: 
 ```Mathematica
-Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]```
+Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]
+```
 
 ### (Included in subdirectories)
 - ToMatlab: https://library.wolfram.com/infocenter/MathSource/577/
@@ -24,7 +25,8 @@ Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]``
 
 2) Run in Mathematica: 
 ```Mathematica
-PacletInstall[dir<>"mfmcl-1.0.paclet"]```
+PacletInstall[dir<>"mfmcl-1.0.paclet"]
+```
     (here, 'dir' is the directory of the paclet)
 
 Note that IGraph/M needs to be installed as well (see above).
@@ -40,7 +42,8 @@ Note that IGraph/M needs to be installed as well (see above).
 ## UNINSTALL
 In Mathematica:
 ```Mathematica
-PacletUninstall["mfmcl"]```
+PacletUninstall["mfmcl"]
+```
 
 
 ## REFERENCE 
