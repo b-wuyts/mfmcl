@@ -7,16 +7,14 @@ Bert Wuyts - b3rtwu@gmail.com
 
 ### External
 - IGraph/M
-* source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
+source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
 
 To install, run in Mathematica: 
 ```Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]```
 
-### Included in subdirectories
-- ToMatlab 
-source: https://library.wolfram.com/infocenter/MathSource/577/
-- Chordal Graph package 
-source: http://mathematica-bits.blogspot.com/2011/02/chordal-graph-usage.html
+### (Included in subdirectories)
+- ToMatlab: see https://library.wolfram.com/infocenter/MathSource/577/
+- Chordal Graph package: http://mathematica-bits.blogspot.com/2011/02/chordal-graph-usage.html
 
 
 ## INSTALLATION
