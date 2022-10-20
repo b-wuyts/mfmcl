@@ -25,10 +25,9 @@ Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]
 
 2) Run in Mathematica: 
 ```Mathematica
-dir="/path/to/paclet/"
+dir="/path/to/paclet/";
 PacletInstall[dir<>"mfmcl-1.0.paclet"]
 ```
-(here, 'dir' is the directory of the paclet)
 
 
 ## DEMOS
