@@ -6,8 +6,7 @@ Bert Wuyts - b3rtwu@gmail.com
 ## DEPENDENCIES
 
 ### External
-- IGraph/M
-source: szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html
+- [IGraph/M](szhorvat.net/pelican/igraphm-a-mathematica-interface-for-igraph.html)
 
 To install, run in Mathematica: 
 ```Mathematica
@@ -15,8 +14,8 @@ Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]
 ```
 
 ### (Included in subdirectories)
-- ToMatlab: https://library.wolfram.com/infocenter/MathSource/577/
-- Chordal Graph package: http://mathematica-bits.blogspot.com/2011/02/chordal-graph-usage.html
+- [ToMatlab](https://library.wolfram.com/infocenter/MathSource/577/)
+- [Chordal Graph package](http://mathematica-bits.blogspot.com/2011/02/chordal-graph-usage.html)
 
 
 ## INSTALLATION
@@ -46,4 +45,4 @@ PacletUninstall["mfmcl"]
 
 ## REFERENCE 
 Wuyts, B. & Sieber, J. (2022) Mean-field models of dynamics on networks via moment closure: an automated procedure -
-www.arxiv.org/abs/2111.07643 [to appear in Physical Review E]
+[arXiv](www.arxiv.org/abs/2111.07643) [to appear in Physical Review E]
