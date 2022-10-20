@@ -13,7 +13,7 @@ To install, run in Mathematica:
 ```Get["https://raw.githubusercontent.com/szhorvat/IGraphM/master/IGInstaller.m"]```
 
 ### (Included in subdirectories)
-- ToMatlab: see https://library.wolfram.com/infocenter/MathSource/577/
+- ToMatlab: https://library.wolfram.com/infocenter/MathSource/577/
 - Chordal Graph package: http://mathematica-bits.blogspot.com/2011/02/chordal-graph-usage.html
 
 
