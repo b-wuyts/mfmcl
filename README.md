@@ -44,4 +44,4 @@ PacletUninstall["mfmcl"]
 
 
 ## REFERENCE 
-<div class="csl-entry">Wuyts, B., &#38; Sieber, J. (2022). Mean-field models of dynamics on networks via moment closure: An automated procedure. [<i>Physical Review E</i>](https://doi.org/10.1103/PhysRevE.106.054312), <i>106</i>(5), 054312. </div> [arXiv](www.arxiv.org/abs/2111.07643)
+Wuyts, B., & Sieber, J. (2022). Mean-field models of dynamics on networks via moment closure: An automated procedure. [<i>Physical Review E</i>](https://doi.org/10.1103/PhysRevE.106.054312), <i>106</i>(5), 054312. [arXiv](www.arxiv.org/abs/2111.07643)
